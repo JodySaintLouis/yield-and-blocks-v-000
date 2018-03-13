@@ -1,5 +1,5 @@
 def hello_t(array)
   i = 0
-  while
+  while i < array.length
 end
 # call your method here!
