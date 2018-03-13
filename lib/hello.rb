@@ -6,6 +6,7 @@ def hello_t(array)
   end
   array
 else
+  puts ""
 end
 end
 # call your method here!
